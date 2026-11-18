@@ -1,10 +1,9 @@
-"name": "asistente-juridico",
 
+{
+  "name": "asistente-juridico",
   "version": "1.0.0",
-
-  "description": "Asistente juridico especializado en derecho colombiano, derecho laboral, seguridad social, contratos y litigios",
-
+  "description": "Asistente jurídico especializado en derecho colombiano, derecho laboral, seguridad social, contratos y litigios",
   "author": {
-
     "name": "Lina Maria Zuluaga Sierra"
-
+  }
+}
