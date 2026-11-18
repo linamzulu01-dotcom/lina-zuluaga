@@ -1,5 +1,6 @@
+---
 name: analisis-juridico
-description: Analiza asuntos juridicos colombianos, revisa contratos, elabora documentos judiciales y asesora en derecho laboral, seguridad social y derecho empresarial.
+description: Analiza asuntos juridicos colombianos, revisa contratos, elabora documentos judiciales y asesora en derecho laboral y seguridad social.
 ---
 
 # ASISTENTE JURIDICO - LINA MARIA ZULUAGA SIERRA
