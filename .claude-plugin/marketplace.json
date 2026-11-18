@@ -1,3 +1,4 @@
+
 {
   "name": "despacho-lina-zuluaga",
   "owner": {
@@ -6,7 +7,10 @@
   "plugins": [
     {
       "name": "asistente-juridico",
-      "source": "./plugins/asistente-juridico",
+      "source": {
+        "source": "directory",
+        "path": "./plugins/asistente-juridico"
+      },
       "description": "Asistente jurídico especializado en derecho colombiano"
     }
   ]
