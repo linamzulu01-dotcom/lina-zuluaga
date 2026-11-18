@@ -1,7 +1,9 @@
-{plugins/asistente-juridico/.claude-plugin/plugin.json  "name": "asistente-juridico",
+
+{
+  "name": "asistente-juridico",
   "version": "1.0.0",
-  "description": "Asistente juridico de Lina Maria Zuluaga Sierra, especializado en derecho colombiano, derecho laboral, seguridad social, litigios y asesoria empresarial",
+  "description": "Asistente jurídico especializado en derecho colombiano, derecho laboral, seguridad social, contratos y litigios",
   "author": {
-    "name": "Lina Maria Zuluaga Sierra"
+    "name": "Lina María Zuluaga Sierra"
   }
 }
