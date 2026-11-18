@@ -9,7 +9,7 @@
       "name": "asistente-juridico",
       "source": {
         "source": "directory",
-        "path": "./plugins/asistente-juridico"
+        "path": "plugins/asistente-juridico"
       },
       "description": "Asistente jurídico especializado en derecho colombiano"
     }
