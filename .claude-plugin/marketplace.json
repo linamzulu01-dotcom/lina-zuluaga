@@ -1,13 +1,13 @@
 {
   "name": "despacho-lina-zuluaga",
   "owner": {
-    "name": "Lina Maria Zuluaga Sierra"
+    "name": "Lina María Zuluaga Sierra"
   },
   "plugins": [
     {
       "name": "asistente-juridico",
       "source": "./plugins/asistente-juridico",
-      "description": "Asistente juridico especializado en derecho colombiano"
+      "description": "Asistente jurídico especializado en derecho colombiano"
     }
   ]
 }
